@@ -14,6 +14,8 @@ The application is designed for:
 - Portfolio and deployment showcase
 
 ---
+## 🚀 Live  App Link 
+link - https://movie-recommender-p67bgnxfws75ieagjsdjyx.streamlit.app/
 
 ## 🛠️ Tech Stack
 
@@ -45,6 +47,3 @@ The application is designed for:
 - Clean and modular code structure
 
 ---
-
-## 📂 Project Structure
-
